@@ -1,0 +1,73 @@
+Items:
+ Active:
+  commissionitems [оепебедемн]
+  shields [оепебедемн]
+  weapons:
+   melee:
+    axe [оепебедемн]
+    broadsword [оепебедемн]
+    dagger
+    gunspear
+    hammer
+    spear
+   ranged
+   staff
+   whip
+ Armors: 
+  Commissionitems [оепебедемн]
+  cosmetic: [оепебедемн]
+   items\armors\Commissionitems\sgflatcap\ [оепебедемн]
+   items\armors\Commissionitems\sgquatermaster\ [оепебедемн]
+   items\armors\cosmetic\sgbackpack\ [оепебедемн]
+   items\armors\cosmetic\sgbasicspacehelmet\ [оепебедемн]
+   items\armors\cosmetic\sgmedichelmet\ [оепебедемн]
+   items\armors\cosmetic\sgflathelmet\ [оепебедемн]
+   items\armors\cosmetic\sgmechpilothelmet\ [оепебедемн]
+   items\armors\cosmetic\sgmedichelmet\ [оепебедемн]
+   items\armors\cosmetic\sgspacehelmet\ [оепебедемн]
+   items\armors\cosmetic\sgbackpack\ [оепебедемн]
+  ironwatch
+  shellarmour
+  shellarmourengineer
+  shellarmournpc
+  shellheavy
+ Generic:
+ Mechparts:                                 
+  items\mechparts\arm\ [оепебедемн]    
+  items\mechparts\body\ [оепебедемн]    
+  items\mechparts\boosters\ [оепебедемн]
+  items\mechparts\horn\ [оепебедемн]    
+  items\mechparts\legs\ [оепебедемн]    
+ 
+ Cosmetic:
+  items\armors\Commissionitems\sgflatcap\ [оепебедемн]
+  items\armors\Commissionitems\sgquatermaster\ [оепебедемн]
+  items\armors\cosmetic\sgbackpack\ [оепебедемн]
+  items\armors\cosmetic\sgbasicspacehelmet\ [оепебедемн]
+  items\armors\cosmetic\sgmedichelmet\ [оепебедемн]
+  items\armors\cosmetic\sgflathelmet\ [оепебедемн]
+  items\armors\cosmetic\sgmechpilothelmet\ [оепебедемн]
+  items\armors\cosmetic\sgmedichelmet\ [оепебедемн]
+  items\armors\cosmetic\sgspacehelmet\ [оепебедемн]
+  items\armors\cosmetic\sgbackpack\ [оепебедемн]
+ Throwables:
+Objects:
+  objects\missionitems\sgdroppodspawner\ [оепебедемн]
+  objects\sgbasedteleporter\ [оепебедемн]
+  objects\sgbasetturret\  [оепебедемн]
+  objects\sgdonatorshop\  [оепебедемн]
+  objects\guardmart\  [оепебедемн]
+  objects\decorations\sghelmetdeco\  [оепебедемн]
+  objects\decorations\sgemptyrack\  [оепебедемн]
+  objects\decorations\sglauncherrack\  [оепебедемн]
+  objects\decorations\sgriflerack\  [оепебедемн]
+  objects\decorations\sgshippingcontainer\ [оепебедемн]
+  objects\decorations\sgturretstand  [оепебедемн]
+  objects\claireshop\ [оепебедемн]
+  objects\questgivers\Andros.object [оепебедемн]
+  objects\questgivers\arenaman\  [оепебедемн]
+  objects\questgivers\atmos\  [оепебедемн]
+  objects\sghubarenateleporter\  [оепебедемн]
+  objects\sghubteleporter\  [оепебедемн]
+  objects\sginfobooth\  [оепебедемн]
+ 
